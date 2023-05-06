@@ -58,9 +58,3 @@ console.log(findPositiveOrNegative(nums));
 
  ];
  console.log(sortAscending(employee))
-//  let people = [
-//     {name: 'Ann', age:20, height: '3ft'},
-//     {name: 'Henry', age:40, height: '4ft'},
-//     {name: 'Susan', age:30, height: '6ft'},
-
-// ];
